@@ -1,4 +1,4 @@
-import {usestate, useEffect, useState} from 'react'
+import { useEffect, useState} from 'react'
 import { useParams } from 'react-router-dom';
 import Backup from "../assets/images/backup.png";
 export const MovieDetails = () => {
